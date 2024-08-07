@@ -1,0 +1,1 @@
+/home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec02/rev-array/target/debug/rev-array: /home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec02/rev-array/src/main.rs

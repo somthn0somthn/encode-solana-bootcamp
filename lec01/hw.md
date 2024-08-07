@@ -1,4 +1,4 @@
-## 1. Fill in the Sli.do Poll about your goals for this course
+## 1. Fill in the Slido Poll about your goals for this course
 
 Done
 
