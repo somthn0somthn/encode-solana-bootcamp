@@ -1,0 +1,1 @@
+/home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec04/fizz-buzz/target/debug/fizz-buzz: /home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec04/fizz-buzz/src/main.rs

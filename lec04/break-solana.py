@@ -10,8 +10,6 @@ def press_key(key, repitions):
 if __name__ == "__main__":
     key_to_press = 'a'
     number_of_repetitions = 1000000
-
-    
-    
+ 
     press_key(key_to_press, number_of_repetitions)
 
