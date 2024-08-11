@@ -1,0 +1,1 @@
+/home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec04/two-sum/target/debug/two-sum: /home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec04/two-sum/src/lib.rs /home/z/Desktop/Study/encode-solana-bootcamp/encode-solana-bootcamp/lec04/two-sum/src/main.rs

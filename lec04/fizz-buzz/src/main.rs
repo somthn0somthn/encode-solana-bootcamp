@@ -5,13 +5,13 @@ fn main() {
 
 fn fizz_buzz() {
     let count = (0..=301).into_iter().fold(0, |mut acc, x| {
-        match x {
-            x if x % 15 == 0 => {
+        match (x % 3 == 0, x % 5 == 0) {
+            (true, true)=> {
                 print!("fizz buzz\n");
                 acc += 1
             }
-            x if x % 5 == 0 => print!("buzz\n"),
-            x if x % 3 == 0 => print!("fizz\n"),
+            (false, true) => print!("buzz\n"),
+            (true, false) => print!("fizz\n"),
             _ => (),
         }
         acc
