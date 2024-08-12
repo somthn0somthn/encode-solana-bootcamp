@@ -1,0 +1,3 @@
+[submodule "solana-bootcamp"]
+	path = solana-bootcamp
+	url = https://github.com/somthn0somthn/SolanaBootcamp.git
