@@ -137,3 +137,17 @@ DONE ABOVE
 ## Try sending using both the transfer and transfer --fund-recipient approach.
 
 DONE ABOVE
+
+## Solana Programs -Using the examples in the repo
+
+## Modify the existing msg! in example1-helloworld to log the program ID.
+
+DONE IN SUBMODULE
+
+## Retrieve the total program size of example1-helloworld.
+
+Data Length: 35296 (0x89e0) bytes
+
+## Retrieve the lamport balance of example2-counter.
+
+0.00114144 SOL
